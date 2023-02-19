@@ -1,0 +1,6 @@
+{
+  "rels_file": "/public10_data/xk/Github/bpr/data/medical/qrels.dev.tsv",
+  "corpus_file": "/public10_data/xk/Github/bpr/data/medical/corpus.tsv",
+  "query_file": "/public10_data/xk/Github/bpr/data/medical/dev.query.txt",
+  "out_file": "/public10_data/xk/Github/bpr/data/medical/dev.json"
+}

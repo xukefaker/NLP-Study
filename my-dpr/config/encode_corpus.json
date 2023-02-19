@@ -1,0 +1,8 @@
+{
+  "model_path": "/public10_data/xk/Github/bpr/dpr/checkpoints/bert-base-multilingual-cased_epch-5",
+  "corpus_path": "/public10_data/xk/Github/bpr/data/medical/corpus.tsv",
+  "output_path": "/public10_data/xk/Github/bpr/data/medical/encoded_corpus.json",
+  "pool_type": "cls",
+  "max_seq_length": 128,
+  "batch_size": 900
+}

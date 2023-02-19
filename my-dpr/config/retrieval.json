@@ -1,0 +1,9 @@
+{
+  "index_file": "/public10_data/xk/Github/bpr/data/medical/encoded_corpus.json",
+  "encoder_path": "/public10_data/xk/Github/bpr/dpr/checkpoints/bert-base-multilingual-cased_epch-5",
+  "topK": 100,
+  "dev_file": "/public10_data/xk/Github/bpr/data/medical/dev.query.txt",
+  "results_dir":"/public10_data/xk/Github/bpr/dpr/retrieval_results",
+  "nlist": 1000,
+  "nprobe": 300
+}
